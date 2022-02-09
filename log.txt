@@ -1,0 +1,4 @@
+2022-02-09 00:38:18 Authorization error. Login: Admin. Password: 21517aeae9cd4e66f35c2e8cd6909d21
+2022-02-09 00:39:11 Authorization error. Login: . Password: 1a36591bceec49c832079e270d7e8b73
+2022-02-09 00:40:45 Authorization error. Login: user1. Password: d87f571825d02ffda14ce6581eb7f1cd
+2022-02-09 00:41:38 Authorization error. Login: Admin. Password: 1474aa30f1a4171f1bf33938f8923b12
